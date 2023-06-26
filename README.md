@@ -1,4 +1,6 @@
 # PruebaDeConocimientosDCT
+## Código generado para la prueba de conocimientos del proceso de selección para DCT
+
 
 El primer ejercicio es un ejercicio de eliminación de data perdida sobre un JSON consumido desde una API. Este JSON puede tener valores con variables de los tipos básicos de programación, arreglos o diccionarios. Este proceso de eliminación se hace de forma recursiva sobre los elementos.
 
